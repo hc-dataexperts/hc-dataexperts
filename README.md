@@ -29,7 +29,7 @@ Explore our repositories to see student-led projects:
 ## Join Us
 We’re always looking for passionate students to join!  
 Contact us via [our website](https://sites.google.com/view/our-code-club).
-Email us @ cscode@hood.edu
+Email us @ csclub@hood.edu
 
 ---
 Don’t forget to star our repos and follow us!
