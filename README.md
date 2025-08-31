@@ -1,16 +1,35 @@
-## Hi there 👋
+#  Welcome to HC Data Experts
 
-<!--
-**hc-dataexperts/hc-dataexperts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are the **Hood College Data Experts**, a student-led coding and data science club at Hood College.  
+Our mission is to **learn, build, and share** knowledge in data science, AI, software development & CS.
 
-Here are some ideas to get you started:
+Visit our website: [Our Code Club](https://sites.google.com/view/our-code-club)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What We Do
+- Data Science & Machine Learning Projects  
+- AI & Deep Learning Experiments  
+- Coding Workshops & Hackathons  
+- Collaboration with students and professionals  
+
+---
+
+## Our Projects
+Explore our repositories to see student-led projects:
+- AI & ML Notebooks  
+- Data Visualizations  
+- Open Source Contributions  
+- Hackathon Projects
+- AI Research
+- Leetcode/Hackerrank Solve 
+
+---
+
+## Join Us
+We’re always looking for passionate students to join!  
+Contact us via [our website](https://sites.google.com/view/our-code-club).
+Email us @ cscode@hood.edu
+
+---
+Don’t forget to star our repos and follow us!
